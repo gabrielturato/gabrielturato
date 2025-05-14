@@ -5,6 +5,13 @@
 📍 Pirassununga, São Paulo, Brasil
 
 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-turato)
+📧 [E-mail](mailto:gabrielturato@outlook.com)
+
+---
+
+## 📚 Formação Acadêmica
+
+- **Bacharelado em Sistemas de Informação**, Universidade Estadual de Campinas (UNICAMP)
 
 ---
 
@@ -20,43 +27,20 @@
 ### Frameworks & Bibliotecas
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=flat)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-2C6EBE?style=flat)
 
 ### Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### Ferramentas & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielturato&show_icons=true&theme=radical)
-
----
-
-## 📂 Repositórios Populares
-
-- [heatmapweb](https://github.com/gabrielturato/heatmapweb): Software para visualização de Heatmap para casamento de histórico.
-- [dslist](https://github.com/gabrielturato/dslist): Projeto para aprendizado de componentes e inversão de controles.
-- [Pedido](https://github.com/gabrielturato/Pedido): Aplicação para gerenciamento de pedidos com foco em aprendizado prático.
-
----
-
-## 📚 Formação Acadêmica
-
-- **Bacharelado em Ciência da Computação**, Universidade Estadual Paulista (UNESP)
-
----
-
-## 📬 Como Entrar em Contato
-
-- [LinkedIn](https://www.linkedin.com/in/gabriel-turato)
-- [E-mail](mailto:gabrielturato@example.com)

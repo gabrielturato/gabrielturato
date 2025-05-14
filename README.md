@@ -1,6 +1,6 @@
 # 👋 Olá, sou Gabriel Turato
 
-🔭 Desenvolvedor Back-end Java na IBM, focado em projetos pessoais para aprimorar meus conhecimentos.
+🔭 Desenvolvedor Back-end Java na IBM, perfil focado em projetos pessoais para aprimorar meus conhecimentos.
 
 📍 Pirassununga, São Paulo, Brasil
 

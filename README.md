@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Gabriel Turato
 
-🔭 Java Back-end Developer at IBM, profile focused on personal projects to improve my skills.
+🔭 Java Back-end Developer at Dock, profile focused on personal projects to improve my skills.
 
 📍 Pirassununga, São Paulo, Brazil
 
